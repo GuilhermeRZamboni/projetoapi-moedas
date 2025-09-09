@@ -28,5 +28,5 @@ Este é um projeto simples desenvolvido em Python utilizando **Streamlit** para 
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/GuilhermeRZamboni/projetoapi-moedas.git
+cd projetoapi-moedas
